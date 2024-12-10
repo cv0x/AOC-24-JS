@@ -1,0 +1,19 @@
+{
+  "name": "aoc-24-js",
+  "version": "1.0.0",
+  "description": "aoc2024js",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cv0x/AOC-24-JS.git"
+  },
+  "author": "cv0x",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/cv0x/AOC-24-JS/issues"
+  },
+  "homepage": "https://github.com/cv0x/AOC-24-JS#readme"
+}
